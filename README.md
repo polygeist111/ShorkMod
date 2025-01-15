@@ -7,9 +7,10 @@ Now updated for 1.20.1
 ## Credits
 This mod is an update to ![EvaisaDev's ShorkMod](https://github.com/EvaisaDev/ShorkMod/) for 1.20.1.
 The remainder of this description is verbatim from their mod:
-  This mod is partially a forge port of ![Blahaj](https://github.com/Hibiii/Blahaj)  
-  It is basically written from scratch however and has additional features like the ability to dye shorks in any color.   
-  I have also taken inspiration from the ![Fabric port](https://github.com/DaFuqs/Blahaj)
+
+This mod is partially a forge port of ![Blahaj](https://github.com/Hibiii/Blahaj)  
+It is basically written from scratch however and has additional features like the ability to dye shorks in any color.   
+I have also taken inspiration from the ![Fabric port](https://github.com/DaFuqs/Blahaj)
 
 ## License
 
